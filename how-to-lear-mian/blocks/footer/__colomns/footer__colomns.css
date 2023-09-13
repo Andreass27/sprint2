@@ -1,0 +1,8 @@
+.footer__colomns{
+  width: 90%;
+  display: flex;
+  background-color: #000000;
+  margin: 60px auto 40px;
+  justify-content: space-between;
+
+}

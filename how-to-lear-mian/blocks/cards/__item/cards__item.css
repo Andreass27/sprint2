@@ -1,0 +1,8 @@
+.cards__item{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 250px;
+
+  /* не понимаю как сделать расстояния между ними 100px  */
+}

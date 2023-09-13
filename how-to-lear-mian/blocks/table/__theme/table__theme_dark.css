@@ -1,0 +1,7 @@
+.table__theme_dark{
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  list-style-type: none;
+}

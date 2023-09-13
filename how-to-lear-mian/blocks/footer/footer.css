@@ -1,0 +1,8 @@
+.footer{
+  min-height: 350px;
+  justify-content: center;
+  display: flex;
+  background-color: #1f1f1f;
+  /* Сделал брок footer потому что если его нет то по бокам он белый, а там сплошной черный фон идет */
+
+ }

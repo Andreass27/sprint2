@@ -1,8 +1,10 @@
 .cards__item{
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
-  width: 250px;
-
-  /* не понимаю как сделать расстояния между ними 100px  */
+  width: 240px;
 }
+.cards__item.cards__item:nth-child(3n + 2){
+margin:0 100px;
+}
+
+

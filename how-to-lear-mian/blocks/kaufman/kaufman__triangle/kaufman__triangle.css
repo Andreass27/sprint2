@@ -1,11 +1,3 @@
-@keyframes rotation {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
 
 .kaufman__triangle{
   background-image: url(/how-to-lear-mian/images/kaufman-triangle.svg);
@@ -16,4 +8,5 @@
   right: -210px;
   top: 0;
   animation: rotation 20s infinite;
+  background-size: cover;
 }

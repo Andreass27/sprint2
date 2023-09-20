@@ -2,11 +2,6 @@
 
   display: flex;
   flex-direction: column;
-  /* не смог сделть так чтобы чтобы они находились на одной линии ( чуть чуть он уходит в бок у меня) пылатлся через flex-wrap: wrap; но не помогло  */
-}
-
-.footer__colomn{
-  display: flex;
-  flex-direction: column;
   margin: 0;
 }
+
